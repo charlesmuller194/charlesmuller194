@@ -1,0 +1,28 @@
+{
+  "login": "charlesmuller194",
+  "title": "charles@muller",
+  "github_since": "2020-03-20",
+  "rows": [
+    {"key": "OS", "value": "Windows, Linux"},
+    {"key": "Uptime", "value": "$uptime"},
+    {"key": "Host", "value": "Brazil"},
+    {"key": "Kernel", "value": "Software Engineering Student"},
+    {"key": "IDE", "value": "VS Code, IntelliJ IDEA"},
+    {},
+    {"key": "Languages.Programming", "value": "Python, Java, TypeScript, Dart"},
+    {"key": "Languages.Computer", "value": "HTML, CSS, SQL, YAML"},
+    {"key": "Languages.Real", "value": "Portuguese, English"},
+    {},
+    {"key": "Focus.AI", "value": "NLP, Sentiment Analysis, ML"},
+    {"key": "Focus.Security", "value": "IoT Botnet Detection"},
+    {"key": "Hobbies", "value": "Gaming, PC Hardware"},
+    {},
+    {"rule": "Projects"},
+    {"key": "Thesis", "value": "Brand Reputation Monitor (NLP)"},
+    {"key": "Research", "value": "Botnet Detection in IoT (N-BaIoT)"},
+    {"key": "Scholarship", "value": "EDUBOT II - AI Tutoring"},
+    {},
+    {"rule": "GitHub Stats"},
+    {"stats": true}
+  ]
+}

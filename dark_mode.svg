@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018" height="538" viewBox="0 0 1018 538" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace">
+<style>
+@font-face { font-family: 'ConsolasFallback'; src: local('Consolas'); size-adjust: 109%; }
+.key {fill: #d2a8ff;} .value {fill: #a5d6ff;} .dots {fill: #5c6670;}
+.title {fill: #d2a8ff; font-weight: bold;} .add {fill: #3fb950;} .del {fill: #f85149;}
+text, tspan {white-space: pre;}
+</style>
+<rect x="0.5" y="0.5" width="1017" height="537" rx="15" fill="#161b22" stroke="#30363d"/>
+<g fill="#b1bac4" font-size="8.62px" xml:space="preserve">
+<text x="15" y="27.74" textLength="201.82" lengthAdjust="spacingAndGlyphs">                              .::..::..</text>
+<text x="15" y="37.32" textLength="238.05" lengthAdjust="spacingAndGlyphs">                          ::::::..::::::::....</text>
+<text x="15" y="46.89" textLength="253.57" lengthAdjust="spacingAndGlyphs">                       :::::::-:.:..:::::::::....</text>
+<text x="15" y="56.46" textLength="269.10" lengthAdjust="spacingAndGlyphs">                    :-:-----:--::::::..:::..........</text>
+<text x="15" y="66.04" textLength="284.62" lengthAdjust="spacingAndGlyphs">                  :::::::..:--::----::--::.............</text>
+<text x="15" y="75.61" textLength="294.97" lengthAdjust="spacingAndGlyphs">                :..........:::..::..:--::::..............</text>
+<text x="15" y="85.18" textLength="300.15" lengthAdjust="spacingAndGlyphs">              .......................::::...:::::.........</text>
+<text x="15" y="94.76" textLength="305.32" lengthAdjust="spacingAndGlyphs">            ............................::--::.............</text>
+<text x="15" y="104.33" textLength="310.50" lengthAdjust="spacingAndGlyphs">           .......:::-----::---:::...::::::::...............</text>
+<text x="15" y="113.91" textLength="315.68" lengthAdjust="spacingAndGlyphs">          ......-**++*##*##*******++=----:::.................</text>
+<text x="15" y="123.48" textLength="320.85" lengthAdjust="spacingAndGlyphs">         .....:=##%####%%%%%@@@%%%%%##**++==-::...::...:......</text>
+<text x="15" y="133.05" textLength="326.02" lengthAdjust="spacingAndGlyphs">        .....:*##%%#####%%%%%%@%@@@@@%%%%%%%#*+==----==-:......</text>
+<text x="15" y="142.63" textLength="331.20" lengthAdjust="spacingAndGlyphs">       ...:..=*##%%%%%#%%%%%%@%%@%%@@@@@@@@@@@@%%%%%##=++-......</text>
+<text x="15" y="152.20" textLength="331.20" lengthAdjust="spacingAndGlyphs">       .....:-+###%%#%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=:.....</text>
+<text x="15" y="161.77" textLength="331.20" lengthAdjust="spacingAndGlyphs">       .....:-+**#%%%@@@@@@@@@@@@@@@@@@@@%%%###%###*#%**+=:.....</text>
+<text x="15" y="171.35" textLength="331.20" lengthAdjust="spacingAndGlyphs">       ......=++*######*===+**#%%@@@@@%*=::::::::--:::=*++......</text>
+<text x="15" y="180.92" textLength="336.38" lengthAdjust="spacingAndGlyphs">       ......=++=-::::--===--::-===+==-::-=   ***+=.....  .......</text>
+<text x="15" y="190.50" textLength="336.38" lengthAdjust="spacingAndGlyphs">       ......:  ......      **+-........-----=*##*=--:::.-:......</text>
+<text x="15" y="200.07" textLength="336.38" lengthAdjust="spacingAndGlyphs">       ......=::.:::-=+++=::....:.-==:.:.....:----:::---:+*......</text>
+<text x="15" y="209.64" textLength="336.38" lengthAdjust="spacingAndGlyphs">       .....:*--::::----::....---:@@@@:=--:::::::.....--:=+:.....</text>
+<text x="15" y="219.22" textLength="336.38" lengthAdjust="spacingAndGlyphs">       .....:+-:::.....:-:---=+*.*@@@@*:##*=-:::--:.:--=:--:.....</text>
+<text x="15" y="228.79" textLength="331.20" lengthAdjust="spacingAndGlyphs">        .....--:-:::..:::--=*%@-+@@@@@%+:%@%%%#***###**-+=--....</text>
+<text x="15" y="238.36" textLength="336.38" lengthAdjust="spacingAndGlyphs">         ...:--=:+++***#%@@@@*:=%@@@@@@@+.=*%@@@@@@%*+=**+-=...==</text>
+<text x="15" y="247.94" textLength="341.55" lengthAdjust="spacingAndGlyphs">        -:..:--+*++++++++++++-=#*%@@@%**##=-+++*+***#%##*+--:....:</text>
+<text x="15" y="257.51" textLength="341.55" lengthAdjust="spacingAndGlyphs">        ....:--++*#%%%%%##*+-+#-.:==-:..-+#--====++++****+-::.==--</text>
+<text x="15" y="267.09" textLength="341.55" lengthAdjust="spacingAndGlyphs">        :.:.:::=+***+++******:.............+%########**+++=::.=**=</text>
+<text x="15" y="276.66" textLength="341.55" lengthAdjust="spacingAndGlyphs">        +-=:::-=++**##%%%%%%%*---:...:-===+#%%@%#*****+====:::-##-</text>
+<text x="15" y="286.23" textLength="336.38" lengthAdjust="spacingAndGlyphs">        =*=::::====+*++*#######***+--+%###########*+==---=-:.++%%</text>
+<text x="15" y="295.81" textLength="336.38" lengthAdjust="spacingAndGlyphs">         %*=:::------=+###*****##%%##%@@%#**++****++======-:.**%=</text>
+<text x="15" y="305.38" textLength="336.38" lengthAdjust="spacingAndGlyphs">         +%#+.:-=--==++++:::--===--==-:::--::...--=+*++===-:.+==:</text>
+<text x="15" y="314.95" textLength="331.20" lengthAdjust="spacingAndGlyphs">          -=*::===-=**+=:.....--+*##*#%%#*+=--====+*++=++=-:-##-</text>
+<text x="15" y="324.53" textLength="326.02" lengthAdjust="spacingAndGlyphs">          -+#+.-====+**##%#*====++====-==+==+*%@%#+=-==++=-::+-</text>
+<text x="15" y="334.10" textLength="310.50" lengthAdjust="spacingAndGlyphs">           -+=.:-==---=*#%%%%*=--:-----===+*####+=----===-:.</text>
+<text x="15" y="343.68" textLength="305.32" lengthAdjust="spacingAndGlyphs">               .::--:::--=+****++==--==+++**#*++--------::.</text>
+<text x="15" y="353.25" textLength="305.32" lengthAdjust="spacingAndGlyphs">                ..:::::::--=****###%%%%%%###**+==-----::...</text>
+<text x="15" y="362.82" textLength="300.15" lengthAdjust="spacingAndGlyphs">                 ...::::::-==**####%%%%%####*+++===-:::...</text>
+<text x="15" y="372.40" textLength="294.97" lengthAdjust="spacingAndGlyphs">                  ....:-----=+*******++++++*++=----:.....</text>
+<text x="15" y="381.97" textLength="294.97" lengthAdjust="spacingAndGlyphs">                   .....::::--====+++++======-:.........:</text>
+<text x="15" y="391.54" textLength="294.97" lengthAdjust="spacingAndGlyphs">                   ............:::::::::::..............:</text>
+<text x="15" y="401.12" textLength="294.97" lengthAdjust="spacingAndGlyphs">                   ....................................:-</text>
+<text x="15" y="410.69" textLength="294.97" lengthAdjust="spacingAndGlyphs">                   ::................................::--</text>
+<text x="15" y="420.27" textLength="294.97" lengthAdjust="spacingAndGlyphs">                   :::..............................::---</text>
+<text x="15" y="429.84" textLength="300.15" lengthAdjust="spacingAndGlyphs">                   :-::............................:::---:</text>
+<text x="15" y="439.41" textLength="300.15" lengthAdjust="spacingAndGlyphs">                   :--:::.........................::------</text>
+<text x="15" y="448.99" textLength="300.15" lengthAdjust="spacingAndGlyphs">                   :----::::...................::::---==--</text>
+<text x="15" y="458.56" textLength="310.50" lengthAdjust="spacingAndGlyphs">                  -------::::..................:::---==----=</text>
+<text x="15" y="468.13" textLength="336.38" lengthAdjust="spacingAndGlyphs">               .=+---===---:::........:::::...:::--====----=*+-:.</text>
+<text x="15" y="477.71" textLength="351.90" lengthAdjust="spacingAndGlyphs">          :....:#+---=====---::::::::::::::::::--=====--==-=+###+...</text>
+<text x="15" y="487.28" textLength="367.43" lengthAdjust="spacingAndGlyphs">        ........=*=======-=---::::::::::::::::---===--=====+**%@+......</text>
+<text x="15" y="496.86" textLength="388.12" lengthAdjust="spacingAndGlyphs">    .............**++=====-----::::::::::::::--===----====+**#%%...........</text>
+<text x="15" y="506.43" textLength="408.82" lengthAdjust="spacingAndGlyphs">..................+**++==-=====-::::::::::::--===----===+++*#%#:...............</text>
+<text x="15" y="516.00" textLength="414.00" lengthAdjust="spacingAndGlyphs">...................-***+=---=====--:::::::--==+==---==++++*#%+..................</text>
+</g>
+<g fill="#c9d1d9" font-size="16px" xml:space="preserve">
+<text x="447" y="34.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="title">charles@muller</tspan> -—————————————————————————————————————————-</text>
+<text x="447" y="54.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>: <tspan class="dots">.....................................</tspan> <tspan class="value">Windows, Linux</tspan></text>
+<text x="447" y="74.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="dots">.....................</tspan> <tspan class="value">6 years, 7 months, 20 days</tspan></text>
+<text x="447" y="94.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>: <tspan class="dots">...........................................</tspan> <tspan class="value">Brazil</tspan></text>
+<text x="447" y="114.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="dots">...................</tspan> <tspan class="value">Software Engineering Student</tspan></text>
+<text x="447" y="134.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>: <tspan class="dots">............................</tspan> <tspan class="value">VS Code, IntelliJ IDEA</tspan></text>
+<text x="447" y="154.6" textLength="9.6" lengthAdjust="spacingAndGlyphs"><tspan class="dots">.</tspan></text>
+<text x="447" y="174.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>: <tspan class="dots">..</tspan> <tspan class="value">Python, Java, TypeScript, Dart</tspan></text>
+<text x="447" y="194.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>: <tspan class="dots">...............</tspan> <tspan class="value">HTML, CSS, SQL, YAML</tspan></text>
+<text x="447" y="214.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>: <tspan class="dots">....................</tspan> <tspan class="value">Portuguese, English</tspan></text>
+<text x="447" y="234.6" textLength="9.6" lengthAdjust="spacingAndGlyphs"><tspan class="dots">.</tspan></text>
+<text x="447" y="254.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">AI</tspan>: <tspan class="dots">..................</tspan> <tspan class="value">NLP, Sentiment Analysis, ML</tspan></text>
+<text x="447" y="274.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Security</tspan>: <tspan class="dots">...................</tspan> <tspan class="value">IoT Botnet Detection</tspan></text>
+<text x="447" y="294.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Hobbies</tspan>: <tspan class="dots">...........................</tspan> <tspan class="value">Gaming, PC Hardware</tspan></text>
+<text x="447" y="314.6" textLength="9.6" lengthAdjust="spacingAndGlyphs"><tspan class="dots">.</tspan></text>
+<text x="447" y="334.6" textLength="556.8" lengthAdjust="spacingAndGlyphs">- Projects -—————————————————————————————————————————————-</text>
+<text x="447" y="354.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Thesis</tspan>: <tspan class="dots">.................</tspan> <tspan class="value">Brand Reputation Monitor (NLP)</tspan></text>
+<text x="447" y="374.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Research</tspan>: <tspan class="dots">............</tspan> <tspan class="value">Botnet Detection in IoT (N-BaIoT)</tspan></text>
+<text x="447" y="394.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Scholarship</tspan>: <tspan class="dots">...................</tspan> <tspan class="value">EDUBOT II - AI Tutoring</tspan></text>
+<text x="447" y="414.6" textLength="9.6" lengthAdjust="spacingAndGlyphs"><tspan class="dots">.</tspan></text>
+<text x="447" y="434.6" textLength="556.8" lengthAdjust="spacingAndGlyphs">- GitHub Stats -—————————————————————————————————————————-</text>
+<text x="447" y="454.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>: <tspan class="dots">.........</tspan> <tspan class="value">?</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">?</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="dots">.........</tspan> <tspan class="value">?</tspan></text>
+<text x="447" y="474.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>: <tspan class="dots">...............</tspan> <tspan class="value">?</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">..............</tspan> <tspan class="value">?</tspan></text>
+<text x="447" y="494.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="dots">..........................</tspan> <tspan class="value">?</tspan> ( <tspan class="add">?++</tspan>, <tspan class="del">?--</tspan> )</text>
+<text x="447" y="514.6"><tspan class="key">&gt; </tspan><tspan class="value">█<animate attributeName="opacity" values="1;0" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+</g>
+</svg>

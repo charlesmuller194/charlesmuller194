@@ -1,0 +1,63 @@
+# Rebuilds the profile card (dark_mode.svg / light_mode.svg) and the Pac-Man
+# board (pacman_*.svg) with fresh GitHub numbers.
+#
+# To change the text on the card, edit profile.json; this workflow runs on
+# that push and the card updates a minute later.
+name: Update Profile Card
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # once a day, 02:17 in Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "profile.json"
+      - "assets/**"
+      - "tools/**"
+      - ".github/workflows/profile-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Fetch GitHub stats
+        env:
+          # Optional: add a STATS_TOKEN secret (a PAT with read:user) to also
+          # count private contributions. The built-in token covers public ones.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python tools/fetch_stats.py
+
+      - name: Build the card
+        run: python tools/build_card.py
+
+      - name: Build the Pac-Man board
+        run: python tools/build_pacman.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.svg' cache/
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git commit -m "chore: refresh profile card stats"
+          git pull --rebase origin main
+          git push origin HEAD:main
