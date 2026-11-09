@@ -1,0 +1,86 @@
+{
+ "charlesmuller194/AtividadesPatrick": {
+  "add": 1017,
+  "commits": 4,
+  "del": 0,
+  "head": "f59cb305fa07bc4f23d13aa950981ed2e0bb6c9a"
+ },
+ "charlesmuller194/Aula-2---Atividade-Git": {
+  "add": 31,
+  "commits": 3,
+  "del": 0,
+  "head": "3f687f2595bdc12dbd7911b6d9206c9391079320"
+ },
+ "charlesmuller194/AulaPraticaRefactoring": {
+  "add": 433,
+  "commits": 18,
+  "del": 215,
+  "head": "59c9b0fa8e7812e27abb7b2a9e6a7bf254007ab4"
+ },
+ "charlesmuller194/DOO-T02N-2025": {
+  "add": 786,
+  "commits": 4,
+  "del": 0,
+  "head": "73edc36a8a056312c5041232cc8f1bbe054e1977"
+ },
+ "charlesmuller194/TrabalhoPOO": {
+  "add": 1001,
+  "commits": 1,
+  "del": 0,
+  "head": "236aac2a914f56e86da186b34c480207016b8944"
+ },
+ "charlesmuller194/atividadeflutter": {
+  "add": 994,
+  "commits": 3,
+  "del": 20,
+  "head": "7641d93cf1a968901b515d9dfac193efe476da0a"
+ },
+ "charlesmuller194/aulafrontend": {
+  "add": 35344,
+  "commits": 16,
+  "del": 165,
+  "head": "834521cf41e7d5b71d410edfd4a10d55a85982ae"
+ },
+ "charlesmuller194/charlesmuller194": {
+  "add": 1103,
+  "commits": 1,
+  "del": 0,
+  "head": "1fe9f71c21000bf1383635c42baec969c5e68a8a"
+ },
+ "charlesmuller194/flutter_chat_head": {
+  "add": 51,
+  "commits": 1,
+  "del": 8,
+  "head": "28475fa1d8d79868f6fd99629714f0f65a4abb16"
+ },
+ "charlesmuller194/minicursodevops": {
+  "add": 1502,
+  "commits": 8,
+  "del": 5,
+  "head": "edbc4d7adbbfd3d6a8a813336a1b190e9e7cb99d"
+ },
+ "charlesmuller194/mvc-arch-examples": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "head": "f5b2cd069e08532cc9b93a4821c0d8ee6206a23e"
+ },
+ "charlesmuller194/nbaiot-botnet-iot": {
+  "add": 1860,
+  "commits": 2,
+  "del": 4,
+  "head": "91fb97065173387ba8db4ac6f9c4ee2a8889e8e6"
+ },
+ "charlesmuller194/nestjs-boilerplate": {
+  "add": 2,
+  "commits": 1,
+  "del": 2,
+  "head": "37e287fbb6ec485c24e40cb3884c2f6654613a68"
+ },
+ "charlesmuller194/t02n-arquitetura-hexagonal": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "head": "d032d2ea0dfa910f42ae75b744a261e4224a8adb"
+ }
+}
