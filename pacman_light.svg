@@ -162,6 +162,7 @@ text, tspan {white-space: pre;}</style>
 <rect x="936" y="98" width="14" height="14" rx="3" fill="#40c463"><animate attributeName="fill" values="#40c463;#f3f4f6" keyTimes="0;0.37573" dur="28.970s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <rect x="954" y="98" width="14" height="14" rx="3" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#f3f4f6" keyTimes="0;0.37815" dur="28.970s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <rect x="972" y="98" width="14" height="14" rx="3" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#f3f4f6" keyTimes="0;0.38057" dur="28.970s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="990" y="98" width="14" height="14" rx="3" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#f3f4f6" keyTimes="0;0.38298" dur="28.970s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <rect x="972" y="116" width="14" height="14" rx="3" fill="#216e39"><animate attributeName="fill" values="#216e39;#f3f4f6" keyTimes="0;0.38781" dur="28.970s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <rect x="954" y="116" width="14" height="14" rx="3" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#f3f4f6" keyTimes="0;0.39023" dur="28.970s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <rect x="936" y="116" width="14" height="14" rx="3" fill="#9be9a8"><animate attributeName="fill" values="#9be9a8;#f3f4f6" keyTimes="0;0.39265" dur="28.970s" calcMode="discrete" repeatCount="indefinite"/></rect>
