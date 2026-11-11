@@ -3,7 +3,6 @@
   "title": "charles@muller",
   "github_since": "2020-03-20",
   "rows": [
-    {"key": "OS", "value": "Windows, Linux"},
     {"key": "Uptime", "value": "$uptime"},
     {"key": "Host", "value": "Brazil"},
     {"key": "Kernel", "value": "Software Engineering Student"},
