@@ -63,7 +63,7 @@ text, tspan {white-space: pre;}
 </g>
 <g fill="#24292f" font-size="16px" xml:space="preserve">
 <text x="447" y="43.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="title">charles@muller</tspan> -—————————————————————————————————————————-</text>
-<text x="447" y="63.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="dots">.....................</tspan> <tspan class="value">6 years, 7 months, 22 days</tspan></text>
+<text x="447" y="63.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="dots">.....................</tspan> <tspan class="value">6 years, 7 months, 23 days</tspan></text>
 <text x="447" y="83.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>: <tspan class="dots">...........................................</tspan> <tspan class="value">Brazil</tspan></text>
 <text x="447" y="103.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="dots">...................</tspan> <tspan class="value">Software Engineering Student</tspan></text>
 <text x="447" y="123.6" textLength="556.8" lengthAdjust="spacingAndGlyphs"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>: <tspan class="dots">............................</tspan> <tspan class="value">VS Code, IntelliJ IDEA</tspan></text>
