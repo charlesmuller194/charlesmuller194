@@ -38,9 +38,11 @@ jobs:
 
       - name: Fetch GitHub stats
         env:
-          # Optional: add a STATS_TOKEN secret (a PAT with read:user) to also
-          # count private contributions. The built-in token covers public ones.
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          # STATS_TOKEN: personal access token (classic, scopes repo + read:user)
+          # so private repositories and commits are counted. If it is missing or
+          # expires, the script falls back to the built-in token (public data only).
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python tools/fetch_stats.py
 
       - name: Build the card
